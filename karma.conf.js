@@ -22,8 +22,6 @@ module.exports = function(config) {
             'node_modules/angular-material/angular-material.min.js',
             'node_modules/angular-mocks/angular-mocks.js',
             'app/modules/app.module.js',
-            // 'app/services/validation.service.js',
-            // 'app/services/validation.service.spec.js',
             'app/**/*.js',
             'app/**/*.html'
         ],
